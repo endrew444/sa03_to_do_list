@@ -72,6 +72,5 @@ class _ListaTarefasState extends State<ListaTarefas>{
         onPressed: _removerTarefa,
         child: Icon(Icons.recycling),) ,
   );
-
   
 }
